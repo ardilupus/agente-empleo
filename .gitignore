@@ -1,0 +1,4 @@
+.env
+ofertas_enviadas.txt
+__pycache__/
+*.pyc
